@@ -1,0 +1,6 @@
+{
+  "name": "HISTRONG UI — Architectural Bamboo Fibre Panels",
+  "description": "Desktop interactive demo for HISTRONG eco-friendly bamboo fibre interior wall and ceiling panels, featuring material collections, project case studies, and quantity estimators.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
